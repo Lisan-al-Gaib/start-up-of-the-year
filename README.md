@@ -1,2 +1,2 @@
 # start-up-of-the-year
-second way to publish website
+https://lisan-al-gaib.github.io/start-up-of-the-year/
